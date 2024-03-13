@@ -1,0 +1,25 @@
+<resources>
+
+
+        <string name="app_name">Bibliothèque En Ligne</string>
+        <string name="book_is_marked_as_read_">Le livre est marqué comme lu !</string>
+        <string name="update_failed_">Mise à jour échouée !</string>
+        <string name="book_is_removed_as_read_">Le livre est retiré des livres lus !</string>
+        <string name="author">Auteur</string>
+        <string name="publishing_in">Publié en\n</string>
+        <string name="ok">D'accord</string>
+        <string name="alert">Alerte</string>
+        <string name="enter_email">Entrez l'e-mail</string>
+        <string name="enter_password">Entrez le mot de passe</string>
+        <string name="login_successfully_">Connexion réussie !</string>
+        <string name="email_or_password_wrong_please_try_again_">E-mail ou mot de passe incorrect. Veuillez réessayer !</string>
+        <string name="no_book_found_">Aucun livre trouvé !</string>
+        <string name="book_details">Détails du livre</string>
+        <string name="description">Description</string>
+        <string name="mark_as_read">Marquer comme lu</string>
+        <string name="login">Connexion</string>
+        <string name="welcome_back_">Bienvenue de retour !</string>
+        <string name="login_to_your_account">Connectez-vous à votre compte</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="appColor">#FF4D01</color>
+    <color name="appColorLight">#EF8051</color>
+    <color name="appColorLight2">#F8C7B2</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="green">#289B2C</color>
+    <color name="red">#B10505</color>
+
+
+    <color name="textHint">#AAAAAA</color>
+
+    <color name="grayDark">#717171</color>
+    <color name="aaaaa">#00000000</color>
+
+</resources>
